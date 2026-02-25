@@ -59,7 +59,7 @@ When executed, the app will display:
 ## 🗂️ Project Structure
 
 ```
-NODEJS-TASK-2/
+Nodejs-Task-Weather-App/
 ├─ app.js
 ├─ data/
 │  ├─ geocode.js
